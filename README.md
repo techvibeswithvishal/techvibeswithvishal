@@ -125,5 +125,8 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 # 📈 GitHub Insights
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvibeswithvishal&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvibeswithvishal&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvibeswithvishal&theme=tokyo-night" />
+</p>
 > *"The best way to predict the future is to build it."*
