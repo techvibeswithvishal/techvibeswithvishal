@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Singh
 
-<!--
-**techvibeswithvishal/techvibeswithvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building Yokonix
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Graduate
+
+## About Me
+
+- 🌱 Currently learning React, Java, and Python
+- 💡 Passionate about Web Development
+- 🚀 Building projects every day
+- 🎯 Open to Software Development opportunities
+
+## Skills
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- SQL
+- Git & GitHub
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/techvibeswithvishal/
+- LeetCode: https://leetcode.com/u/vishalsingh48/
+- Kaggle: https://www.kaggle.com/vishalsiingh03
+- YouTube: https://www.youtube.com/@techvibeswithvishal
