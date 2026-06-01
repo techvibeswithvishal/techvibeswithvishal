@@ -122,17 +122,11 @@ I enjoy building practical applications, learning new technologies, and solving 
 # 📈 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvibeswithvishal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 > *"The best way to predict the future is to build it."*
