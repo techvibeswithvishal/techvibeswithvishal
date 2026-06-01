@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Yokonix+%F0%9F%9A%80;Aspiring+Software+Developer;Python+%7C+Java+%7C+React;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
 <div align="center">
 
 <h1>
