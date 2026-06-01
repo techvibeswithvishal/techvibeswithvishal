@@ -112,11 +112,13 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 # 📫 Let's Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/techvibeswithvishal/
-* 🧠 LeetCode: https://leetcode.com/u/vishalsingh48/
-* 📊 Kaggle: https://www.kaggle.com/vishalsiingh03
-* 🎥 YouTube: https://www.youtube.com/@techvibeswithvishal
-
+<p align="center">
+<a href="https://vishalsingh.yokonix.com">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/techvibeswithvishal/">💼 LinkedIn</a> •
+<a href="https://leetcode.com/u/vishalsingh48/">🧠 LeetCode</a> •
+<a href="https://www.kaggle.com/vishalsiingh03">📊 Kaggle</a> •
+<a href="https://www.youtube.com/@techvibeswithvishal">🎥 YouTube</a>
+</p>
 ---
 
 # 📈 GitHub Insights
