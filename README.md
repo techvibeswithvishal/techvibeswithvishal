@@ -121,6 +121,8 @@ I enjoy building practical applications, learning new technologies, and solving 
 </p>
 ---
 
+
+
 # 📈 GitHub Insights
 
 <p align="center">
@@ -128,7 +130,6 @@ I enjoy building practical applications, learning new technologies, and solving 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 > *"The best way to predict the future is to build it."*
