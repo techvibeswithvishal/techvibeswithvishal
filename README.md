@@ -1,30 +1,32 @@
-# Hi 👋, I'm Vishal Singh
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 
-🚀 Building Yokonix
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Yokonix+%F0%9F%9A%80;Aspiring+Software+Developer;Python+%7C+Java+%7C+React;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-💻 Aspiring Software Developer
+---
 
-🎓 B.Tech Graduate
+### 🚀 About Me
 
-## About Me
+- 🎓 B.Tech Graduate
+- 💻 Aspiring Software Developer
+- 🌱 Learning React, Java & Python
+- 🚀 Building **Yokonix**
+- 🎯 Open to Software Development Opportunities
 
-- 🌱 Currently learning React, Java, and Python
-- 💡 Passionate about Web Development
-- 🚀 Building projects every day
-- 🎯 Open to Software Development opportunities
+---
 
-## Skills
+### 🛠️ Tech Stack
 
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- React
-- SQL
-- Git & GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github,mysql,vscode" />
+</p>
 
-## Connect With Me
+---
+
+### 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/techvibeswithvishal/
 - LeetCode: https://leetcode.com/u/vishalsingh48/
