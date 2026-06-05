@@ -164,7 +164,7 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/techvibeswithvishal/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://leetcode.com/u/vishalsingh48/">
+<a href="https://leetcode.com/u/techvibesvishal/">
   <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://www.youtube.com/@techvibeswithvishal">
