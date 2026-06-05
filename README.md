@@ -149,20 +149,7 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
 
-<!-- ⚠️ Only loads AFTER you set up the GitHub Action — see setup note below -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> **⚙️ One-time setup:** Add `.github/workflows/snake.yml` to your profile repo → [Guide here →](https://github.com/Platane/snk)
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
