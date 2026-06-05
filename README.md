@@ -34,30 +34,20 @@
 ```python
 class VishalSingh:
     def __init__(self):
-        self.name = "Vishal Singh"
-        self.role = "Aspiring AI Engineer & Full Stack Developer"
-        self.education = "B.Tech Graduate"
-        self.languages = ["Python", "Java", "JavaScript", "SQL"]
-        self.stack = ["React", "HTML", "CSS", "MongoDB", "Git"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Data Structures & Algorithms",
-            "Open Source"
-        ]
-        self.currently_learning = [
-            "AI/ML",
-            "System Design",
-            "Advanced React"
-        ]
-        self.goal = "Building intelligent and scalable solutions"
+        self.name       = "Vishal Singh"
+        self.role       = "Aspiring AI / Software Engineer"
+        self.education  = "B.Tech Graduate"
+        self.languages  = ["Python", "Java", "JavaScript", "SQL"]
+        self.stack      = ["React", "HTML/CSS", "MongoDb", "Git"]
+        self.interests  = ["AI/ML", "Web Dev", "DSA", "Open Source"]
+        self.currently  = "Building portfolio-ready projects 🚀"
+        self.fun_fact   = "I debug with console.log and I'm not ashamed 😄"
 
     def say_hi(self):
-        return "Welcome to my GitHub profile! 🚀"
+        print("Thanks for dropping by! Let's build something amazing together.")
 
 me = VishalSingh()
-print(me.say_hi())
+me.say_hi()
 ```
 
 
