@@ -80,7 +80,7 @@ me.say_hi()
 - ⚛️ Building production-grade **React apps**
 - 🧠 Sharpening **DSA & Problem Solving**
 - 📦 Crafting **portfolio-ready** projects
-- 💼 Actively **open to opportunities**
+- 💼 Actively **Connect with me**
 
 </td>
 <td width="50%">
