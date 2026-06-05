@@ -65,7 +65,7 @@ me.say_hi()
 
 ### ☕ Programming & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,jupyter,linux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgresql,jupyter,linux,git,github,vscode&perline=5&theme=dark" />
 </p>
 
 ---
