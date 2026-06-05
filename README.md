@@ -171,6 +171,9 @@ me.say_hi()
 <a href="https://vishalsingh.yokonix.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge"/>
 </a>
+
+
+
 <a href="https://www.linkedin.com/in/techvibeswithvishal/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
