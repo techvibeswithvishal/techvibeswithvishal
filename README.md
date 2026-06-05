@@ -1,108 +1,192 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&height=160&section=header&text=〔%20VISHAL%20SINGH%20〕&fontSize=52&fontColor=ff6b35&fontAlignY=55&desc=Software%20Developer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=ff9a6c&descSize=16&descAlignY=78"/>
+<!-- Animated Banner - capsule-render is very reliable ✅ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishal%20Singh&fontSize=60&fontColor=00f7ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn"/>
 
-<br/>
-
+<!-- Typing SVG - demolab is reliable ✅ -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=900&color=FF6B35&background=00000000&center=true&vCenter=true&width=700&lines=_%3E+Initializing+Vishal.exe...;_%3E+Loading+skills%3A+Python+%E2%9C%94+Java+%E2%9C%94+React+%E2%9C%94;_%3E+Status%3A+Open+to+Opportunities+%F0%9F%9F%A2;_%3E+Mission%3A+Build+%7C+Learn+%7C+Grow+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%A4%96+Aspiring+AI+%2F+ML+Engineer;%F0%9F%92%BB+Building+things+that+matter;%F0%9F%9A%80+Python+%7C+Java+%7C+React+%7C+SQL;%F0%9F%8C%9F+Open+to+new+opportunities!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-ff6b35?style=flat-square&logoColor=white)](https://vishalsingh.yokonix.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techvibeswithvishal/)
-[![LeetCode](https://img.shields.io/badge/◈_LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalsingh48/)
-[![Kaggle](https://img.shields.io/badge/◈_KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/vishalsiingh03)
-[![YouTube](https://img.shields.io/badge/◈_YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@techvibeswithvishal)
+<!-- Social Badges - shields.io is very reliable ✅ -->
+<p>
+  <a href="https://vishalsingh.yokonix.com"><img src="https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/techvibeswithvishal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/vishalsingh48/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.kaggle.com/vishalsiingh03"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@techvibeswithvishal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=techvibeswithvishal&color=ff6b35&style=flat-square&label=VISITORS"/>
+<!-- Profile Views - abbreviated style so large number is not shown ✅ -->
+<img src="https://komarev.com/ghpvc/?username=techvibeswithvishal&label=👀+Visitors&color=00f7ff&style=flat-square&abbreviated=true" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## ⚡ SYSTEM INFO
+## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<!-- GIF from giphy - much more reliable than raw GitHub user content ✅ -->
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```
-╔══════════════════════════════════════╗
-║          DEVELOPER PROFILE           ║
-╠══════════════════════════════════════╣
-║  NAME     → Vishal Singh             ║
-║  ROLE     → Software Developer       ║
-║  DEGREE   → B.Tech Graduate          ║
-║  NATION   → India 🇮🇳                 ║
-╠══════════════════════════════════════╣
-║  LANG     → Python | Java | JS       ║
-║  FRONT    → React | HTML | CSS       ║
-║  DB       → MySQL                    ║
-║  TOOLS    → Git | GitHub | VSCode    ║
-╠══════════════════════════════════════╣
-║  AI/ML    → [ ████████░░ ] 80%       ║
-║  REACT    → [ ███████░░░ ] 70%       ║
-║  DSA      → [ ██████░░░░ ] 60%       ║
-║  PYTHON   → [ █████████░ ] 90%       ║
-╠══════════════════════════════════════╣
-║  STATUS   → 🟢 AVAILABLE FOR WORK   ║
-╚══════════════════════════════════════╝
+```python
+class VishalSingh:
+    def __init__(self):
+        self.name       = "Vishal Singh"
+        self.role       = "Aspiring AI / Software Engineer"
+        self.education  = "B.Tech Graduate"
+        self.languages  = ["Python", "Java", "JavaScript", "SQL"]
+        self.stack      = ["React", "HTML/CSS", "MySQL", "Git"]
+        self.interests  = ["AI/ML", "Web Dev", "DSA", "Open Source"]
+        self.currently  = "Building portfolio-ready projects 🚀"
+        self.fun_fact   = "I debug with console.log and I'm not ashamed 😄"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = VishalSingh()
+me.say_hi()
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🔧 TECH ARSENAL
+## 🚀 Tech Stack & Tools
 
-<div align="center">
+### 🌐 Web Development
+<!-- skillicons.dev is reliable ✅ -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&perline=8&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,tailwind,mysql,git,github,vscode,linux&theme=dark&perline=6"/>
-
-</div>
+### ☕ Programming & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,jupyter,linux&perline=8&theme=dark" />
+</p>
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## 🎯 What I'm Up To
 
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔥 Currently
+- 🤖 Exploring **AI/ML & Deep Learning**
+- ⚛️ Building production-grade **React apps**
+- 🧠 Sharpening **DSA & Problem Solving**
+- 📦 Crafting **portfolio-ready** projects
+- 💼 Actively **open to opportunities**
+
+</td>
+<td width="50%">
+
+### 💡 Interests
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence & Python
+- 📊 Data Science & Kaggle Challenges
+- 🏗️ System Design & Clean Architecture
+- 🎥 Tech content on YouTube
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- github-readme-stats on vercel - reliable ✅ -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=dark&hide_border=true&title_color=ff6b35&icon_color=ff9a6c&text_color=ffffff&bg_color=0f0f0f&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=techvibeswithvishal&theme=dark&hide_border=true&background=0f0f0f&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ffffff&dates=aaaaaa"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true" />
+
+<!-- streak-stats - using new reliable domain ✅ -->
+<img width="49%" src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=donut&theme=dark&hide_border=true&title_color=ff6b35&text_color=ffffff&bg_color=0f0f0f"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏅 ACHIEVEMENTS UNLOCKED
+## 🏆 GitHub Trophies
 
+<!-- github-profile-trophy is reliable ✅ -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techvibeswithvishal&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=techvibeswithvishal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
 
-## 🌊 COMMIT HISTORY
+## 📈 Contribution Graph
 
+<!-- activity-graph - reliable ✅ -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techvibeswithvishal&bg_color=0f0f0f&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b3533&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvibeswithvishal&theme=tokyo-night&hide_border=true&radius=8" />
 </div>
 
 ---
 
+## 📋 Profile Summary
+
+<!-- profile-summary-cards - reliable ✅ -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvibeswithvishal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techvibeswithvishal&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techvibeswithvishal&theme=tokyonight"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Snake SVG - only works AFTER you set up the GitHub Action ✅ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> **⚙️ Setup:** Add `.github/workflows/snake.yml` to your profile repo to activate the snake. [Guide here →](https://github.com/Platane/snk)
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-   "The best way to predict the future
-            is to BUILD IT."
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<a href="https://vishalsingh.yokonix.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/techvibeswithvishal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://leetcode.com/u/vishalsingh48/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.youtube.com/@techvibeswithvishal">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a0a00&height=80&section=footer&text=THANKS+FOR+VISITING+·+LET'S+BUILD+TOGETHER&fontSize=14&fontColor=ff6b35"/>
+<br/><br/>
+
+> 💬 *"The best way to predict the future is to build it."*
+
+<br/>
+
+<!-- Footer wave ✅ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
