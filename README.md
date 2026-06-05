@@ -98,32 +98,8 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- github-readme-stats ✅ vercel hosted - stable -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true" />
-
-<!-- streak-stats ✅ switched to demolab domain - old herokuapp was broken -->
-<img width="49%" src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<!-- ✅ switched to direct ryo-ma CDN which is more reliable than vercel deployment -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techvibeswithvishal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -134,15 +110,7 @@ me.say_hi()
 
 ---
 
-## 📋 Profile Summary
 
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/🏙️_GitHub_Skyline_2024-View_3D_Contributions-00f7ff?style=for-the-badge)](https://skyline.github.com/techvibeswithvishal/2024)
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=pie&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"/>
-
-</div>
 
 ---
 
