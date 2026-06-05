@@ -134,18 +134,20 @@ me.say_hi()
 
 ---
 
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# OPTION 1 — WakaTime-style Stats Card (clean & professional)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 📋 Profile Summary
 
-<!-- ⚠️ profile-details card shows email & join date — REPLACED with safer cards only -->
 <div align="center">
 
-<!-- repos-per-language: safe, no personal info ✅ -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techvibeswithvishal&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&hide=contribs"/>
 
-<!-- most-commit-language: safe, no personal info ✅ -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techvibeswithvishal&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"/>
 
 </div>
+
 
 ---
 
