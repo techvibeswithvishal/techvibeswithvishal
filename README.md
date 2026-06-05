@@ -134,20 +134,15 @@ me.say_hi()
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# OPTION 1 — WakaTime-style Stats Card (clean & professional)
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 📋 Profile Summary
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&hide=contribs"/>
+[![GitHub Skyline](https://img.shields.io/badge/🏙️_GitHub_Skyline_2024-View_3D_Contributions-00f7ff?style=for-the-badge)](https://skyline.github.com/techvibeswithvishal/2024)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvibeswithvishal&layout=pie&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"/>
 
 </div>
-
 
 ---
 
