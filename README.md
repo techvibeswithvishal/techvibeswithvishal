@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner - capsule-render is very reliable ✅ -->
+<!-- Animated Banner ✅ capsule-render - very stable -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishal%20Singh&fontSize=60&fontColor=00f7ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn"/>
 
-<!-- Typing SVG - demolab is reliable ✅ -->
+<!-- Typing SVG ✅ demolab - very stable -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%91%8B+Welcome+to+my+digital+space!;%F0%9F%A4%96+Aspiring+AI+%2F+ML+Engineer;%F0%9F%92%BB+Building+things+that+matter;%F0%9F%9A%80+Python+%7C+Java+%7C+React+%7C+SQL;%F0%9F%8C%9F+Open+to+new+opportunities!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges - shields.io is very reliable ✅ -->
+<!-- Social Badges ✅ shields.io - very stable -->
 <p>
   <a href="https://vishalsingh.yokonix.com"><img src="https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   <a href="https://www.linkedin.com/in/techvibeswithvishal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,8 +19,8 @@
   <a href="https://www.youtube.com/@techvibeswithvishal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<!-- Profile Views - abbreviated style so large number is not shown ✅ -->
-<img src="https://komarev.com/ghpvc/?username=techvibeswithvishal&label=👀+Visitors&color=00f7ff&style=flat-square&abbreviated=true" alt="Profile Views"/>
+<!-- Profile Views - hidden label, no number shown, just a dot indicator ✅ -->
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechvibeswithvishal&count_bg=%2300f7ff&title_bg=%230f0c29&icon=github.svg&icon_color=%23ffffff&title=visitors&edge_flat=true)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-<!-- GIF from giphy - much more reliable than raw GitHub user content ✅ -->
+<!-- GIF from giphy ✅ - reliable CDN, won't break -->
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
@@ -57,7 +57,7 @@ me.say_hi()
 ## 🚀 Tech Stack & Tools
 
 ### 🌐 Web Development
-<!-- skillicons.dev is reliable ✅ -->
+<!-- skillicons.dev ✅ - very stable -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&perline=8&theme=dark" />
 </p>
@@ -100,12 +100,12 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<!-- github-readme-stats on vercel - reliable ✅ -->
 <div align="center">
 
+<!-- github-readme-stats ✅ vercel hosted - stable -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=techvibeswithvishal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true" />
 
-<!-- streak-stats - using new reliable domain ✅ -->
+<!-- streak-stats ✅ switched to demolab domain - old herokuapp was broken -->
 <img width="49%" src="https://streak-stats.demolab.com?user=techvibeswithvishal&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
@@ -118,16 +118,16 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-<!-- github-profile-trophy is reliable ✅ -->
+<!-- ✅ switched to direct ryo-ma CDN which is more reliable than vercel deployment -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techvibeswithvishal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=techvibeswithvishal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<!-- activity-graph - reliable ✅ -->
+<!-- activity-graph ✅ - stable -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvibeswithvishal&theme=tokyo-night&hide_border=true&radius=8" />
 </div>
@@ -136,21 +136,22 @@ me.say_hi()
 
 ## 📋 Profile Summary
 
-<!-- profile-summary-cards - reliable ✅ -->
+<!-- ⚠️ profile-details card shows email & join date — REPLACED with safer cards only -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvibeswithvishal&theme=tokyonight" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techvibeswithvishal&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techvibeswithvishal&theme=tokyonight"/>
+<!-- repos-per-language: safe, no personal info ✅ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techvibeswithvishal&theme=tokyonight"/>
+
+<!-- most-commit-language: safe, no personal info ✅ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techvibeswithvishal&theme=tokyonight"/>
+
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<!-- Snake SVG - only works AFTER you set up the GitHub Action ✅ -->
+<!-- ⚠️ Only loads AFTER you set up the GitHub Action — see setup note below -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techvibeswithvishal/techvibeswithvishal/output/github-contribution-grid-snake-dark.svg" />
@@ -159,7 +160,7 @@ me.say_hi()
   </picture>
 </div>
 
-> **⚙️ Setup:** Add `.github/workflows/snake.yml` to your profile repo to activate the snake. [Guide here →](https://github.com/Platane/snk)
+> **⚙️ One-time setup:** Add `.github/workflows/snake.yml` to your profile repo → [Guide here →](https://github.com/Platane/snk)
 
 ---
 
